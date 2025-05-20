@@ -1,0 +1,2 @@
+# Maximal Normal Subgroup
+**Definition**: A *maximal normal subgroup* of a group $G$ is a [[normal_subgroup|normal subgroup]] $M$ not equal to $G$ such that there is no other proper normal subgroup of $G$ that contains $M$.

@@ -1,0 +1,2 @@
+# Cauchy's Theorem
+**Statement**: Let $G$ be a [[group]] such that $p$ divides $|G|$ where $p$ is a prime. Then $G$ has an element of [[group_element_order|order]] $p$ and therefore a [[subgroup]] of [[group_order|order]] $p$.

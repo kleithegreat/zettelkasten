@@ -1,0 +1,2 @@
+# Second Isomorphism Theorem
+**Statement**: Let $H$ be a [[subgroup]] of $G$ and let $N$ be a [[normal_subgroup|normal subgroup]] of $G$. Then $(HN)\N$ is naturally [[group_isomorphism|isomorphic]] to $H/(H\cap N)$.

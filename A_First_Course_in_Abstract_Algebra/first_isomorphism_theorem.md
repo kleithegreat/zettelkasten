@@ -1,0 +1,2 @@
+# First Isomorphism Theorem
+**Statement**: Let $\phi: G \to G'$ be a [[group_homomorphism|homomorphism]] with [[kernel]] $K$, and let $\gamma_K: G \to G/K$ be the canonical homomorphism. There is a unique [[group_isomorphism|isomorphism]] $\mu: G/K \to \phi[G]$ such that $\phi(x) = \mu(\gamma_K(x))$ for all $x \in G$.
