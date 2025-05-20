@@ -5,5 +5,5 @@ The *nth dihedral group* is the set $D_n$ under composition.
 
 The nth dihegral [[group]] describes the rotational and reflective symmetries of a regular $n$-gon, and has order $2n$.
 
-Let $\iota$ be the [[identity]], $\rho$ be the rotation by $2\pi/n$, and $\mu$ be the reflection across the horizontal axis. Then the elements of $D_n$ are:
+Let $\iota$ be the [[identity]], $\rho$ be the rotation by $\frac{2\pi}{n}$, and $\mu$ be the reflection across the horizontal axis. Then the elements of $D_n$ are:
 $$ \iota, \rho, \rho^2, \ldots, \rho^{n-1}, \mu, \mu\rho, \mu\rho^2, \ldots, \mu\rho^{n-1} $$
