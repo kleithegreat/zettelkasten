@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "03d69df8827ea890",
+    "type": "split",
+    "children": [
+      {
+        "id": "361d31aec4bf16a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e40b817f7415f1c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "665b3a0e4db0df47",
+    "type": "split",
+    "children": [
+      {
+        "id": "d58a796234bde537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "155091d21c920c71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "74e533c0faae9252",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "11438bb4158704b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e6ec5b0c5e9f5a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b90b3e04a107545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd95536158c3ecc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d8296e007cb08076",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6c2bdd946fbb7ffc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac60d294a1287e92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8e40b817f7415f1c",
+  "lastOpenFiles": [
+    "A_First_Course_in_Abstract_Algebra/alternating_group.md",
+    "A_First_Course_in_Abstract_Algebra/orbit.md",
+    "A_First_Course_in_Abstract_Algebra/even_odd_permutations.md",
+    "A_First_Course_in_Abstract_Algebra/cayleys_theorem.md",
+    "A_First_Course_in_Abstract_Algebra/kernel.md",
+    "A_First_Course_in_Abstract_Algebra/group_generating_set.md",
+    "A_First_Course_in_Abstract_Algebra/fundamental_theorem_of_finite_cyclic_groups.md",
+    "A_First_Course_in_Abstract_Algebra/cyclic_group.md",
+    "A_First_Course_in_Abstract_Algebra/group_generator.md",
+    "A_First_Course_in_Abstract_Algebra/cyclic_subgroup.md",
+    "A_First_Course_in_Abstract_Algebra/subgroup.md",
+    "A_First_Course_in_Abstract_Algebra/dihedral_group.md",
+    "A_First_Course_in_Abstract_Algebra/disjoint_cycles.md",
+    "A_First_Course_in_Abstract_Algebra/symmetric_group.md",
+    "A_First_Course_in_Abstract_Algebra/permutation_group.md",
+    "A_First_Course_in_Abstract_Algebra/set_permutation.md",
+    "A_First_Course_in_Abstract_Algebra/group_order.md",
+    "A_First_Course_in_Abstract_Algebra/order.md",
+    "A_First_Course_in_Abstract_Algebra/roots_of_unity.md",
+    "A_First_Course_in_Abstract_Algebra/circle_group.md",
+    "A_First_Course_in_Abstract_Algebra/group_homomorphism.md",
+    "A_First_Course_in_Abstract_Algebra/group_isomorphism.md",
+    "A_First_Course_in_Abstract_Algebra/monoid.md",
+    "A_First_Course_in_Abstract_Algebra/semigroup.md",
+    "A_First_Course_in_Abstract_Algebra/abelian_group.md",
+    "A_First_Course_in_Abstract_Algebra/group.md"
+  ]
+}

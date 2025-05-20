@@ -1,0 +1,2 @@
+# Cayley Table
+**Definition**: A Cayley table is a table that describes the [[binary_operation|operation]] of a [[group]]. It is a square table with rows and columns labeled by the elements of the group. The entry in the i-th row and j-th column is the product of the i-th and j-th elements of the group.

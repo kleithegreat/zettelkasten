@@ -1,5 +1,5 @@
 # Singular Value Decomposition
-**Statement**: Suppose $T \in \mathcal{L}(V, W)$, and the positive singular values of $T$ are $s_1, \ldots, s_m$. Then there exist orthonormal lists $e_1, \ldots, e_m$ in $V$ and $f_1, \ldots, f_m$ in $W$ such that
+**Statement**: Suppose $T \in \mathcal{L}(V, W)$, and the positive singular values of $T$ are $s_1, \ldots, s_m$. Then there exist [[orthonormal_bases|orthonormal]] lists $e_1, \ldots, e_m$ in $V$ and $f_1, \ldots, f_m$ in $W$ such that
 $$ Tv = s_1 \langle v, e_1 \rangle f_1 + \cdots + s_m \langle v, e_m \rangle f_m $$
 for every $v \in V$.
 

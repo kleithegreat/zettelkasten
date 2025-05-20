@@ -1,0 +1,2 @@
+# The Alternating Group
+For $n \geq 2$ the number of even [[set_permutation|permutations]] in $S_n$ is equal to the number of odd permutations in $S_n$; they are both equal to $\frac{n!}{2}$. The even permutations form a [[subgroup]] of $S_n$ which is called the *alternating group* and is denoted by $A_n$.

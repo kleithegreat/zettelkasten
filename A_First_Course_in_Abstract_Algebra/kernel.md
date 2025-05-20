@@ -1,0 +1,2 @@
+# Kernel
+**Definition**: Let $\phi: G \to G'$ be a [[group_homomorphism|group homomorphism]]. The [[subgroup]] $\ker(\phi) = \phi^{-1}[\{e'\}] = \{x \in G \mid \phi(x) = e'\}$ is called the *kernel* of $\phi$.

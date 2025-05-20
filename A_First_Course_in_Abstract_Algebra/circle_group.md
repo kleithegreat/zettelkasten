@@ -1,0 +1,2 @@
+# Circle Group
+Let $U = \{ z \in \mathbb{C} \mid |z| = 1 \}$, so that $U$ is the circle in the Euclidian plane with center at the origin and radius 1. Then $U$ is an [[abelian_group|Abelian group]] under complex multiplication with identity $1$ and inverse $z^{-1} = \overline{z}$, the complex conjugate of $z$.

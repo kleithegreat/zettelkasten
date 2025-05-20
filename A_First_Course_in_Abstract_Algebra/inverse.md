@@ -1,0 +1,2 @@
+# Inverse
+**Definition**: If $*$ is an [[binary_operation|operation]] on $S$ and $S$ has an identity element $e$, then for any $x \in S$, the *inverse* of $x$ is the element $x'$ such that $x * x' = x' * x = e$.

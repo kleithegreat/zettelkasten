@@ -1,0 +1,2 @@
+# Roots of Unity
+The elements of the set $U_n = \{z \in \mathbb{C} \;\vert\; z^n = 1\}$ are called the *nth roots of unity*. The set $U_n$ is an [[abelian_group|Abelian group]] under complex multiplication, and is [[group_isomorphism|isomorphic]] to $\mathbb{Z}_n$ under addition.
