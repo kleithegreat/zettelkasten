@@ -1,0 +1,2 @@
+# Order of a Group Element
+**Definition**: The order of an element $g \in G$ is the least positive integer $n$ such that $g^n = e$, where $e$ is the identity element of the group $G$. If no such positive integer exists, we say that the order of $g$ is infinite.

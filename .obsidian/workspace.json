@@ -163,6 +163,11 @@
   },
   "active": "8e40b817f7415f1c",
   "lastOpenFiles": [
+    "A_First_Course_in_Abstract_Algebra/decomposable_groups.md",
+    "A_First_Course_in_Abstract_Algebra/fundamental_theorem_of_finitely_generated_abelian_groups.md",
+    "A_First_Course_in_Abstract_Algebra/group_element_order.md",
+    "A_First_Course_in_Abstract_Algebra/least_common_multiple.md",
+    "A_First_Course_in_Abstract_Algebra/direct_product_groups.md",
     "Programming_Massively_Parallel_Processors/_info.md",
     "Programming_in_Haskell/_info.md",
     "OSTEP/_info.md",
@@ -184,11 +189,6 @@
     "A_First_Course_in_Abstract_Algebra/fundamental_theorem_of_finite_cyclic_groups.md",
     "A_First_Course_in_Abstract_Algebra/cyclic_group.md",
     "A_First_Course_in_Abstract_Algebra/group_generator.md",
-    "A_First_Course_in_Abstract_Algebra/cyclic_subgroup.md",
-    "A_First_Course_in_Abstract_Algebra/subgroup.md",
-    "A_First_Course_in_Abstract_Algebra/dihedral_group.md",
-    "A_First_Course_in_Abstract_Algebra/disjoint_cycles.md",
-    "A_First_Course_in_Abstract_Algebra/symmetric_group.md",
-    "A_First_Course_in_Abstract_Algebra/permutation_group.md"
+    "A_First_Course_in_Abstract_Algebra/cyclic_subgroup.md"
   ]
 }
