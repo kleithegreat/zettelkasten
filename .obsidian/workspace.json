@@ -163,6 +163,18 @@
   },
   "active": "8e40b817f7415f1c",
   "lastOpenFiles": [
+    "Programming_Massively_Parallel_Processors/_info.md",
+    "Programming_in_Haskell/_info.md",
+    "OSTEP/_info.md",
+    "LADR/_info.md",
+    "Dragon_Compilers/_info.md",
+    "Digital_Design/_info.md",
+    "Computer_Systems/_info.md",
+    "CLRS/_info.md",
+    "A_First_Course_in_Abstract_Algebra/_info.md",
+    "Category_Theory_in_Context/_info.md",
+    "Category_Theory_in_Context/info",
+    "Category_Theory_in_Context/category.md",
     "A_First_Course_in_Abstract_Algebra/alternating_group.md",
     "A_First_Course_in_Abstract_Algebra/orbit.md",
     "A_First_Course_in_Abstract_Algebra/even_odd_permutations.md",
@@ -177,17 +189,6 @@
     "A_First_Course_in_Abstract_Algebra/dihedral_group.md",
     "A_First_Course_in_Abstract_Algebra/disjoint_cycles.md",
     "A_First_Course_in_Abstract_Algebra/symmetric_group.md",
-    "A_First_Course_in_Abstract_Algebra/permutation_group.md",
-    "A_First_Course_in_Abstract_Algebra/set_permutation.md",
-    "A_First_Course_in_Abstract_Algebra/group_order.md",
-    "A_First_Course_in_Abstract_Algebra/order.md",
-    "A_First_Course_in_Abstract_Algebra/roots_of_unity.md",
-    "A_First_Course_in_Abstract_Algebra/circle_group.md",
-    "A_First_Course_in_Abstract_Algebra/group_homomorphism.md",
-    "A_First_Course_in_Abstract_Algebra/group_isomorphism.md",
-    "A_First_Course_in_Abstract_Algebra/monoid.md",
-    "A_First_Course_in_Abstract_Algebra/semigroup.md",
-    "A_First_Course_in_Abstract_Algebra/abelian_group.md",
-    "A_First_Course_in_Abstract_Algebra/group.md"
+    "A_First_Course_in_Abstract_Algebra/permutation_group.md"
   ]
 }
