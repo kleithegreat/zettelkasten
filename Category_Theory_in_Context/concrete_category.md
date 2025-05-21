@@ -1,0 +1,2 @@
+# Concrete Category
+**Definition**: A *concrete [[category]]* is one whose objects have underlying sets and whose morphisms are functions between those underlying sets, typically the "structure respecting" morphisms.

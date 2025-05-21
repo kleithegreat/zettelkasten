@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b7b2943b862317a7",
+        "id": "5ee3b2e010729d35",
         "type": "tabs",
         "children": [
           {
-            "id": "88fd30d398cf807a",
+            "id": "629983ba04737f2d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -161,35 +161,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88fd30d398cf807a",
+  "active": "629983ba04737f2d",
   "lastOpenFiles": [
-    "A_First_Course_in_Abstract_Algebra/normalizer_subgroup.md",
+    "Category_Theory_in_Context/maximal_groupoid.md",
+    "Category_Theory_in_Context/subcategory.md",
+    "Category_Theory_in_Context/automorphism.md",
+    "LADR/functionals.md",
+    "Category_Theory_in_Context/isomorphism.md",
+    "Category_Theory_in_Context/endomorphism.md",
+    "Category_Theory_in_Context/category.md",
+    "Category_Theory_in_Context/abstract_category.md",
+    "Category_Theory_in_Context/concrete_category.md",
+    "Category_Theory_in_Context/discrete_category.md",
+    "Category_Theory_in_Context/groupoid.md",
+    "Category_Theory_in_Context/hom-set.md",
+    "Category_Theory_in_Context/locally_small_category.md",
+    "Category_Theory_in_Context/small_category.md",
+    "Theory_of_Computation",
+    "Digital_Design/_info.md",
+    "CSAPP/_info.md",
+    "A_First_Course_in_Abstract_Algebra/fundamental_theorem_of_finite_cyclic_groups.md",
+    "A_First_Course_in_Abstract_Algebra/group_isomorphism.md",
     "A_First_Course_in_Abstract_Algebra/third_isomorphism_theorem.md",
+    "Category_Theory_in_Context/locally_small_category",
+    "A_First_Course_in_Abstract_Algebra/normalizer_subgroup.md",
     "A_First_Course_in_Abstract_Algebra/second_isomorphism_theorem.md",
     "A_First_Course_in_Abstract_Algebra/burnsides_lemma.md",
     "A_First_Course_in_Abstract_Algebra/burnsides_formula.md",
     "A_First_Course_in_Abstract_Algebra/p-group.md",
     "A_First_Course_in_Abstract_Algebra/cauchys_theorem.md",
     "A_First_Course_in_Abstract_Algebra/isotropy_subgroup.md",
-    "A_First_Course_in_Abstract_Algebra/group_action.md",
-    "A_First_Course_in_Abstract_Algebra/commutator_subgroup.md",
-    "A_First_Course_in_Abstract_Algebra/group_commutator.md",
-    "A_First_Course_in_Abstract_Algebra/center_subgroup.md",
-    "A_First_Course_in_Abstract_Algebra/maximal_normal_subgroup.md",
-    "A_First_Course_in_Abstract_Algebra/simple_group.md",
-    "A_First_Course_in_Abstract_Algebra/group_inner_automorphism.md",
-    "A_First_Course_in_Abstract_Algebra/inner_automorphism.md",
-    "A_First_Course_in_Abstract_Algebra/group_automorphism.md",
-    "A_First_Course_in_Abstract_Algebra/automorphism.md",
-    "A_First_Course_in_Abstract_Algebra/first_isomorphism_theorem.md",
-    "A_First_Course_in_Abstract_Algebra/normal_subgroup.md",
-    "A_First_Course_in_Abstract_Algebra/quotient_group.md",
-    "A_First_Course_in_Abstract_Algebra/subgroup_index.md",
-    "A_First_Course_in_Abstract_Algebra/lagranges_theorem.md",
-    "A_First_Course_in_Abstract_Algebra/coset_group.md",
-    "A_First_Course_in_Abstract_Algebra/coset.md",
     "Untitled.canvas",
-    "A_First_Course_in_Abstract_Algebra/group.md",
     "Category_Theory_in_Context/info"
   ]
 }
