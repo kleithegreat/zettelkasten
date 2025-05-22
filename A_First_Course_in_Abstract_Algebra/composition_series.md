@@ -1,0 +1,2 @@
+# Composition Series
+**Definition**: A [[subnormal_series|subnormal series]] $\{H_i\}$ of a [[group]] $G$ is a *composition series* if all of the [[quotient_group|quotient groups]] $H_{i+1}/H_i$ are [[simple_group|simple]].

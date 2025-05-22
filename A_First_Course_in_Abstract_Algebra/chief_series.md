@@ -1,0 +1,2 @@
+# Chief Series
+**Definition**: A [[normal_series|normal series]] $\{H_i\}$ of a [[group]] $G$ is a *chief series* (or principal series) if all of the [[quotient_group|factor groups]] $H_{i+1}/H_i$ are [[simple_group|simple]]. 

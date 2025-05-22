@@ -1,0 +1,2 @@
+# Normal Series of Groups
+**Definition**: A *normal* series of a [[group]] $G$ is a finite sequence $H_0,H_1,\ldots,H_n$ of [[normal_subgroup|normal subgroups]] of $G$ such that $H_i \leq H_{i+1}$, $H_0 = \{e\}$, and $H_n = G$.

@@ -1,0 +1,2 @@
+# Solvable Group
+**Definition**: A group $G$ is *solvable* if it has a [[composition_series|composition series]] $\{H_i\}$ such that all [[quotient_group|factor groups]] $H_{i+1}/H_i$ are [[abelian_group|abelian]].

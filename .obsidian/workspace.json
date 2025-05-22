@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ee3b2e010729d35",
+        "id": "026acd99a9495e84",
         "type": "tabs",
         "children": [
           {
-            "id": "629983ba04737f2d",
+            "id": "9354e7995f73bf80",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "629983ba04737f2d",
+  "active": "9354e7995f73bf80",
   "lastOpenFiles": [
+    "A_First_Course_in_Abstract_Algebra/ascending_central_series.md",
+    "A_First_Course_in_Abstract_Algebra/solvable_group.md",
+    "A_First_Course_in_Abstract_Algebra/jordan-holder_theorem.md",
+    "A_First_Course_in_Abstract_Algebra/chief_series.md",
+    "A_First_Course_in_Abstract_Algebra/principal_series.md",
+    "A_First_Course_in_Abstract_Algebra/composition_series.md",
+    "A_First_Course_in_Abstract_Algebra/subnormal_series.md",
+    "A_First_Course_in_Abstract_Algebra/normal_series.md",
+    "A_First_Course_in_Abstract_Algebra/sylow_p-subgroup.md",
+    "A_First_Course_in_Abstract_Algebra/third_sylow_theorem.md",
+    "A_First_Course_in_Abstract_Algebra/second_sylow_theorem.md",
+    "A_First_Course_in_Abstract_Algebra/first_sylow_theorem.md",
+    "A_First_Course_in_Abstract_Algebra/normal_subgroup.md",
     "Category_Theory_in_Context/maximal_groupoid.md",
     "Category_Theory_in_Context/subcategory.md",
     "Category_Theory_in_Context/automorphism.md",
@@ -176,21 +189,8 @@
     "Category_Theory_in_Context/groupoid.md",
     "Category_Theory_in_Context/hom-set.md",
     "Category_Theory_in_Context/locally_small_category.md",
-    "Category_Theory_in_Context/small_category.md",
     "Theory_of_Computation",
-    "Digital_Design/_info.md",
-    "CSAPP/_info.md",
-    "A_First_Course_in_Abstract_Algebra/fundamental_theorem_of_finite_cyclic_groups.md",
-    "A_First_Course_in_Abstract_Algebra/group_isomorphism.md",
-    "A_First_Course_in_Abstract_Algebra/third_isomorphism_theorem.md",
     "Category_Theory_in_Context/locally_small_category",
-    "A_First_Course_in_Abstract_Algebra/normalizer_subgroup.md",
-    "A_First_Course_in_Abstract_Algebra/second_isomorphism_theorem.md",
-    "A_First_Course_in_Abstract_Algebra/burnsides_lemma.md",
-    "A_First_Course_in_Abstract_Algebra/burnsides_formula.md",
-    "A_First_Course_in_Abstract_Algebra/p-group.md",
-    "A_First_Course_in_Abstract_Algebra/cauchys_theorem.md",
-    "A_First_Course_in_Abstract_Algebra/isotropy_subgroup.md",
     "Untitled.canvas",
     "Category_Theory_in_Context/info"
   ]
