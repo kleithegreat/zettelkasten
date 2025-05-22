@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "026acd99a9495e84",
+        "id": "7488aff2893e9fde",
         "type": "tabs",
         "children": [
           {
-            "id": "9354e7995f73bf80",
+            "id": "8ec022b2e709e890",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Category_Theory_in_Context/functor.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "functor"
             }
           }
         ]
@@ -161,34 +166,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9354e7995f73bf80",
+  "active": "8ec022b2e709e890",
   "lastOpenFiles": [
+    "Category_Theory_in_Context/epimorphism.md",
+    "Category_Theory_in_Context/isomorphism.md",
+    "Category_Theory_in_Context/natural_isomorphism.md",
+    "Category_Theory_in_Context/natural_transformation.md",
+    "Category_Theory_in_Context/hom_functor.md",
+    "A_First_Course_in_Abstract_Algebra/subnormal_series.md",
+    "LADR/isomorphism.md",
+    "Category_Theory_in_Context/product_category.md",
+    "Category_Theory_in_Context/hom-functor.md",
+    "Category_Theory_in_Context/contravariant_functor.md",
+    "Category_Theory_in_Context/forgetful_functor.md",
+    "Category_Theory_in_Context/functor.md",
+    "Category_Theory_in_Context/retraction.md",
+    "Category_Theory_in_Context/section.md",
+    "Category_Theory_in_Context/section,md",
+    "Category_Theory_in_Context/monomorphism.md",
+    "Category_Theory_in_Context/opposite_category.md",
     "A_First_Course_in_Abstract_Algebra/ascending_central_series.md",
     "A_First_Course_in_Abstract_Algebra/solvable_group.md",
     "A_First_Course_in_Abstract_Algebra/jordan-holder_theorem.md",
     "A_First_Course_in_Abstract_Algebra/chief_series.md",
     "A_First_Course_in_Abstract_Algebra/principal_series.md",
     "A_First_Course_in_Abstract_Algebra/composition_series.md",
-    "A_First_Course_in_Abstract_Algebra/subnormal_series.md",
     "A_First_Course_in_Abstract_Algebra/normal_series.md",
     "A_First_Course_in_Abstract_Algebra/sylow_p-subgroup.md",
     "A_First_Course_in_Abstract_Algebra/third_sylow_theorem.md",
     "A_First_Course_in_Abstract_Algebra/second_sylow_theorem.md",
-    "A_First_Course_in_Abstract_Algebra/first_sylow_theorem.md",
-    "A_First_Course_in_Abstract_Algebra/normal_subgroup.md",
-    "Category_Theory_in_Context/maximal_groupoid.md",
-    "Category_Theory_in_Context/subcategory.md",
-    "Category_Theory_in_Context/automorphism.md",
-    "LADR/functionals.md",
-    "Category_Theory_in_Context/isomorphism.md",
-    "Category_Theory_in_Context/endomorphism.md",
-    "Category_Theory_in_Context/category.md",
-    "Category_Theory_in_Context/abstract_category.md",
-    "Category_Theory_in_Context/concrete_category.md",
-    "Category_Theory_in_Context/discrete_category.md",
-    "Category_Theory_in_Context/groupoid.md",
-    "Category_Theory_in_Context/hom-set.md",
-    "Category_Theory_in_Context/locally_small_category.md",
     "Theory_of_Computation",
     "Category_Theory_in_Context/locally_small_category",
     "Untitled.canvas",

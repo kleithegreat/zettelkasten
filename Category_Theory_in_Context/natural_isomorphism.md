@@ -1,0 +1,2 @@
+# Natural Isomorphism
+**Definition**: A *natural isomorphism* is a [[natural_transformation|natural transformation]] $\alpha: F \Rightarrow G$ such that each component $\alpha_c$ is an [[isomorphism]]. In this case, we maye depict the natural isomorphism as $\alpha: F \cong G$.

@@ -1,0 +1,2 @@
+# Forgetful Functor
+**Definition**: A *forgetful [[functor]]* is a general term that is used for any functor that forgets some structure and whose codomain is the [[category]] of sets. For example, $U: \mathsf{Group} \to \mathsf{Set}$ sends a group to its underlying set and homomorphisms to their underlying functions.
