@@ -7,7 +7,7 @@ Equivalent conditions to be an eigenvalue (for finite-dimensional $V$, $T \in \m
 - $T - \lambda I$ is not surjective
 - $T - \lambda I$ is not invertible
 
-Every operator on a finite-dimensional nonzero complex vector space has at least one eigenvalue. Related: [[fundamental_theorem_algebra|Fundamental Theorem of Algebra]].
+Every operator on a finite-dimensional nonzero complex [[vector_space|vector space]] has at least one eigenvalue. Related: [[fundamental_theorem_algebra|Fundamental Theorem of Algebra]].
 
 Eigenvalues are the zeros of the [[minimal_polynomial|minimal polynomial]].
 

@@ -5,4 +5,4 @@ The span of the empty list defined as $\{0\}$.
 
 The span of a list of vectors is the smallest subspace that contains all the vectors in the list.
 
-A vector space is finite-dimensional if some [[lists|list]] of vectors spans the space.
+A [[vector_space|vector space]] is finite-dimensional if some [[lists|list]] of vectors spans the space.

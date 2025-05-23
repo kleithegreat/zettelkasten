@@ -7,6 +7,6 @@ Linear map lemma: A linear map is completely determined by its action on a [[bas
 
 Linear maps preserve the zero vector: $T(0) = 0$.
 
-We denote $\mathcal{L}(V, W)$ as the vector space of all linear maps from $V$ to $W$.
+We denote $\mathcal{L}(V, W)$ as the [[vector_space|vector space]] of all linear maps from $V$ to $W$.
 
 The [[dimension]] of $\mathcal{L}(V, W)$ equals $\dim V \cdot \dim W$.

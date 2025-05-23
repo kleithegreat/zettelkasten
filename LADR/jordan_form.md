@@ -6,4 +6,4 @@ $$ A_k = \begin{pmatrix} \lambda_k & 1 & & 0 \\ & \ddots & \ddots & \\ & & \ddot
 
 Every [[nilpotent_operators|nilpotent]] opreator has a Jordan basis.
 
-Every operator $T$ over a [[complex_numbers|complex]] vector space $V$ has a Jordan basis.
+Every operator $T$ over a [[complex_numbers|complex]] [[vector_space|vector space]] $V$ has a Jordan basis.

@@ -1,7 +1,7 @@
 # The Minimal Polynomial
 A *monic* [[polynomials|polynomial]] is defined to have its highest degree coefficient equal to 1.
 
-Existence, uniqueness, and degree of the minimal polynomial: let $V$ be a finite-dimensional vector space and $T \in \mathcal{L}(V)$. Then there is a unique monic polynomial $p \in \mathcal{P}(F)$ of least degree such that $p(T) = 0$. Furthermore, $\text{deg}\;p \leq \dim V$.
+Existence, uniqueness, and degree of the minimal polynomial: let $V$ be a finite-dimensional [[vector_space|vector space]] and $T \in \mathcal{L}(V)$. Then there is a unique monic polynomial $p \in \mathcal{P}(F)$ of least degree such that $p(T) = 0$. Furthermore, $\text{deg}\;p \leq \dim V$.
 
 **Definition**: Let $V$ be a finite dimensional vector space and $T \in \mathcal{L}(V)$. The *minimal polynomial* of $T$ is the unique monic polynomial $p \in \mathcal{P}(F)$ of least degree such that $p(T) = 0$.
 

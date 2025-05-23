@@ -1,5 +1,5 @@
 # Product of Vector Spaces
-**Definition**: Suppose $V_1, \ldots, V_m$ are vector spaces over $\mathbb{F}$.
+**Definition**: Suppose $V_1, \ldots, V_m$ are [[vector_space|vector spaces]] over $\mathbb{F}$.
 - The *product* $V_1 \times \cdots \times V_m$ is the set of all $m$-tuples $(v_1, \ldots, v_m)$ where $v_i \in V_i$ for $i = 1, \ldots, m$.
 - Addition is defined componentwise.
 - Scalar multiplication gets distributed over the components.

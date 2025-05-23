@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f97b97906106e73",
+        "id": "49b67db6f6af191f",
         "type": "tabs",
         "children": [
           {
-            "id": "d3585b7891d5f5e6",
+            "id": "ffcbf58fae692219",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3585b7891d5f5e6",
+  "active": "ffcbf58fae692219",
   "lastOpenFiles": [
     "Category_Theory_in_Context/initial_object.md",
     "Category_Theory_in_Context/terminal_object.md",

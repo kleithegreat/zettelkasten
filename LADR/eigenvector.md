@@ -3,7 +3,7 @@
 
 Every list of eigenvectors of $T$ is [[linear_independence|linearly independent]].
 
-An operator cannot have more eigenvectors than the [[dimension]] of the vector space.
+An operator cannot have more eigenvectors than the [[dimension]] of the [[vector_space|vector space]].
 
 The *eigenspace* of $T$ corresponding to $\lambda$ is the subspace spanned by the eigenvectors of $\lambda$.
 

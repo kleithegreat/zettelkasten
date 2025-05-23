@@ -9,6 +9,6 @@ Let $T \in \mathcal{L}(V)$ and $v_1, \ldots, v_n$ be a basis of $V$. The followi
 
 The [[eigenvalue|eigenvalues]] of an upper triangular matrix are the entries on the diagonal.
 
-An operator $T$ on a finite-dimensional vector space $V$ has an upper-triangular matrix with respect to some basis of $V$ if and only if the [[minimal_polynomial|minimal polynomial]] of $T$ equals $(z - \lambda_1) \cdots (z - \lambda_m)$ for some $\lambda_1, \ldots, \lambda_m \in \mathbb{F}$.
+An operator $T$ on a finite-dimensional [[vector_space|vector space]] $V$ has an upper-triangular matrix with respect to some basis of $V$ if and only if the [[minimal_polynomial|minimal polynomial]] of $T$ equals $(z - \lambda_1) \cdots (z - \lambda_m)$ for some $\lambda_1, \ldots, \lambda_m \in \mathbb{F}$.
 
 Every operator on a finite-dimensional vector space over $\mathbb{C}$ has an upper-triangular matrix with respect to some basis of $V$.

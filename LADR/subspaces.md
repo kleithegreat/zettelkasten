@@ -1,5 +1,5 @@
 # Subspaces
-**Definition**: A *subspace* $U$ of a vector space $V$ is a subset of $V$ that has the same additive identity, addition, and scalar multiplication as $V$.
+**Definition**: A *subspace* $U$ of a [[vector_space|vector space]] $V$ is a subset of $V$ that has the same additive identity, addition, and scalar multiplication as $V$.
 
 A subspace must satisfy the following conditions:
 - Includes the zero vector

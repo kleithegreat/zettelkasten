@@ -7,7 +7,7 @@ Trace does not depend on the choice of [[basis]].
 
 The trace of an operator is the trace of its [[matrices|matrix]] representation with respect to any basis.
 
-On complex vector spaces, the trace of an operator is equal to the sum of its [[eigenvalue|eigenvalues]], with each eigenvalue counted with its algebraic [[multiplicity]].
+On complex [[vector_space|vector spaces]], the trace of an operator is equal to the sum of its [[eigenvalue|eigenvalues]], with each eigenvalue counted with its algebraic [[multiplicity]].
 
 On complex vector spaces, $\text{tr}\;T$ equals the negative of the coefficient of $z^{\dim V - 1}$ in the [[characteristic_polynomial|characteristic polynomial]] of $T$.
 

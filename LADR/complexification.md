@@ -1,5 +1,5 @@
 # Complexification
-**Definition**: Suppose $V$ is an $\mathbb{R}$-vector space. The *complexification* of $V$, denoted $V_\mathbb{C}$ equals $V \times V$. An element in $V_\mathbb{C}$ is a pair $(u, v)$ where $u, v \in V$, but we write it $u + iv$.
+**Definition**: Suppose $V$ is an $\mathbb{R}$-[[vector_space|vector space]]. The *complexification* of $V$, denoted $V_\mathbb{C}$ equals $V \times V$. An element in $V_\mathbb{C}$ is a pair $(u, v)$ where $u, v \in V$, but we write it $u + iv$.
 
 Vector addition is defined componentwise:
 $$ (u_1 + iv_1) + (u_2 + iv_2) = (u_1 + u_2) + i(v_1 + v_2) $$

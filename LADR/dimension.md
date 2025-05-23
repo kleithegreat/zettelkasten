@@ -1,5 +1,5 @@
 # Dimension
-**Definition**: The *dimension* of a finite-dimensional vector space is the length of any basis for the space.
+**Definition**: The *dimension* of a finite-dimensional [[vector_space|vector space]] is the length of any basis for the space.
 
 If $V$ is finite-dimensional and $U$ is a [[subspaces|subspace]], then $\dim U \leq \dim V$.
 
