@@ -1,0 +1,2 @@
+# Essentially Surjective Functor
+**Definition**: A [[functor]] $F: \mathsf{C} \to \mathsf{D}$ is *essentially surjective on objects* if for every object $d \in \mathsf{D}$ there is some $c \in \mathsf{C}$ such that $d$ is [[isomorphism|isomorphic]] to $Fc$.

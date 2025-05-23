@@ -1,0 +1,2 @@
+# Equivalent Categories
+**Definition**: An *equivalence of [[category|categories]]* consists of [[functor|functors]] $F: \mathsf{C} \to \mathsf{D}$ and $G: \mathsf{D} \to \mathsf{C}$ with [[natural_isomorphism|natural isomorphisms]] $\eta: \text{id}_{\mathsf{C}} \cong GF$ and $\epsilon: FG \cong \text{id}_{\mathsf{D}}$. Then categories $\mathsf{C}$ and $\mathsf{D}$ are *equivalent*, written $\mathsf{C} \simeq \mathsf{D}$.
