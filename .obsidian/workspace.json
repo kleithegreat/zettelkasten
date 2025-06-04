@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49b67db6f6af191f",
+        "id": "14f32cfb764b2bdd",
         "type": "tabs",
         "children": [
           {
-            "id": "ffcbf58fae692219",
+            "id": "74bdc2168e8ce677",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffcbf58fae692219",
+  "active": "74bdc2168e8ce677",
   "lastOpenFiles": [
+    "A_First_Course_in_Abstract_Algebra/jordan-holder_theorem.md",
+    "Engineering_a_Compiler/_info.md",
+    "Engineering_a_Compiler",
     "Category_Theory_in_Context/initial_object.md",
     "Category_Theory_in_Context/terminal_object.md",
     "Category_Theory_in_Context/skeletal_category.md",
@@ -187,8 +190,6 @@
     "LADR/singular_value_decomposition.md",
     "LADR/subspace_sum.md",
     "LADR/trace.md",
-    "LADR/subspaces.md",
-    "LADR/square_root.md",
     "Category_Theory_in_Context/section,md",
     "Theory_of_Computation",
     "Category_Theory_in_Context/locally_small_category",
