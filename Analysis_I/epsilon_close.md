@@ -1,0 +1,2 @@
+# Epsilon Closeness
+**Definition:** Let $\varepsilon > 0$ be a [[rational_number|rational]] (or [[real_number|real]]) number, and let $a$ and $b$ be two rational (or real) numbers. We say that $a$ and $b$ are $\varepsilon$-*close* iff the [[distance]] between them is less than $\varepsilon$. In other words, $|a - b| < \varepsilon$.

@@ -1,0 +1,2 @@
+# Real Numbers
+**Definition:** A *real number* is defined to be an object of the form $\text{LIM}_{n \to \infty} a_n$, where $(a_n)_{n=1}^\infty$ is a [[cauchy_sequence|Cauchy sequence]] of rational numbers.
