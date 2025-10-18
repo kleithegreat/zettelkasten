@@ -5,3 +5,5 @@ Typically the majority of the cost of software is not in the initial development
 - **Operability**: Make it easy to keep the system running smoothly
 - **Simplicity**: Make it easy for new developers to understand the system
 - **Evolvability**: Make it easy to change the system for unanticipated future requirements
+
+Related: [[scalability|Scalability]]
