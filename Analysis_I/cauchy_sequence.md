@@ -1,2 +1,0 @@
-# Cauchy Sequences
-**Definition:** A sequence $(a_n)_{n=0}^{\infty}$ of rational numbers is a *Cauchy sequence* iff for every rational $\varepsilon > 0$ the sequence is eventually $\varepsilon$-[[epsilon_steady|steady]].

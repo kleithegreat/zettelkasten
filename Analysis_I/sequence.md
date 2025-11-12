@@ -1,2 +1,0 @@
-# Sequences
-**Definition**: A *sequence* $(a_n)_{n=m}^{\infty}$ of *[[rational_number|rational]]* numbers is any function from the set $\{n \in \mathbb{Z} : n \geq m\}$ to the set of rational numbers $\mathbb{Q}$. More informally, a sequence $(a_n)_{n=m}^{\infty}$ is an ordered list of rational numbers $a_m, a_{m+1}, a_{m+2}, \ldots$ indexed by the integers starting from $m$.

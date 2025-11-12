@@ -1,2 +1,0 @@
-# Epsilon Steady Sequences
-**Definition:** Let $\varepsilon > 0$. A [[sequence]] $(a_n)_{n=0}^{\infty}$ is said to be $\varepsilon$-*steady* iff terms are pairwise $\varepsilon$-[[epsilon_close|close]]. In other words, $|a_n - a_m| < \varepsilon$ for all natural numbers $m, n \geq 0$.

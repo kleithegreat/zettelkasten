@@ -1,3 +1,3 @@
-Textbook: Analysis I
-Author: Terence Tao
-ISBN: 9789811017896
+Textbook: Elementary Real Analysis
+Author: Brian S. Thomson, Judith B. Bruckner, Andrew M. Bruckner
+ISBN: 1434841618
